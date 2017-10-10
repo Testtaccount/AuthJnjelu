@@ -1,0 +1,436 @@
+[
+    {
+        "outputFile": "E:\\AndroidStudioProjects\\AuthJnjelu\\Q-municate_core\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 469
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\58cd131546247f07165dc649c773da1fab21790f\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 474,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 894
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\58cd131546247f07165dc649c773da1fab21790f\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 899,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1322
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\58cd131546247f07165dc649c773da1fab21790f\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 899,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1327,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1748
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\58cd131546247f07165dc649c773da1fab21790f\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1327,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1753,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 2175
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\58cd131546247f07165dc649c773da1fab21790f\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2180,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2600
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\58cd131546247f07165dc649c773da1fab21790f\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2180,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 2600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2605,
+                    "endColumn": 88,
+                    "endOffset": 2689
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\58cd131546247f07165dc649c773da1fab21790f\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2605,
+                        "endColumn": 88,
+                        "endOffset": 2689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2694,
+                    "endColumn": 100,
+                    "endOffset": 2790
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\58cd131546247f07165dc649c773da1fab21790f\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2694,
+                        "endColumn": 100,
+                        "endOffset": 2790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2795,
+                    "endColumn": 102,
+                    "endOffset": 2893
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\58cd131546247f07165dc649c773da1fab21790f\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2795,
+                        "endColumn": 102,
+                        "endOffset": 2893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2898,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 3301
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\58cd131546247f07165dc649c773da1fab21790f\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2898,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 3301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3306,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 3721
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\58cd131546247f07165dc649c773da1fab21790f\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3306,
+                        "endLine": 50,
+                        "endColumn": 12,
+                        "endOffset": 3721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3726,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 4143
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\58cd131546247f07165dc649c773da1fab21790f\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3726,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 4143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4148,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 4250
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\58cd131546247f07165dc649c773da1fab21790f\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4148,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 4250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4255,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 4379
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\58cd131546247f07165dc649c773da1fab21790f\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4255,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 4379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4384,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 4541
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\fbfa7c9fcaf12064224d0a83152ad5248de88dca\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4546,
+                    "endLine": 67,
+                    "endColumn": 10,
+                    "endOffset": 4820
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\4da027b0a51c0d7670538b68873e4c1271d0be69\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 10,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4825,
+                    "endColumn": 70,
+                    "endOffset": 4891
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\58cd131546247f07165dc649c773da1fab21790f\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4384,
+                        "endColumn": 70,
+                        "endOffset": 4450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4896,
+                    "endColumn": 82,
+                    "endOffset": 4974
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\58cd131546247f07165dc649c773da1fab21790f\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4455,
+                        "endColumn": 82,
+                        "endOffset": 4533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4979,
+                    "endLine": 122,
+                    "endColumn": 12,
+                    "endOffset": 8913
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\58cd131546247f07165dc649c773da1fab21790f\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 4538,
+                        "endLine": 114,
+                        "endColumn": 12,
+                        "endOffset": 8472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 8918,
+                    "endLine": 176,
+                    "endColumn": 12,
+                    "endOffset": 12995
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\58cd131546247f07165dc649c773da1fab21790f\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 8477,
+                        "endLine": 168,
+                        "endColumn": 12,
+                        "endOffset": 12554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 13000,
+                    "endColumn": 90,
+                    "endOffset": 13086
+                },
+                "from": {
+                    "file": "C:\\Users\\Avetik\\.android\\build-cache\\58cd131546247f07165dc649c773da1fab21790f\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 12559,
+                        "endColumn": 90,
+                        "endOffset": 12645
+                    }
+                }
+            }
+        ]
+    }
+]

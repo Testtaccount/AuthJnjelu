@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\AuthJnjelu\\Q-municate_core\\build\\intermediates\\res\\merged\\release\\raw\\beep.wav",
+        "source": "E:\\AndroidStudioProjects\\AuthJnjelu\\Q-municate_core\\src\\main\\res\\raw\\beep.wav"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\AuthJnjelu\\Q-municate_core\\build\\intermediates\\res\\merged\\release\\raw\\tw__cacerts",
+        "source": "C:\\Users\\Avetik\\.android\\build-cache\\20cf879fd5418271a5007097b7180ba509367f8c\\output\\res\\raw\\tw__cacerts"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\AuthJnjelu\\Q-municate_core\\build\\intermediates\\res\\merged\\release\\raw\\orm.properties",
+        "source": "E:\\AndroidStudioProjects\\AuthJnjelu\\Q-municate_db\\build\\intermediates\\bundles\\default\\res\\raw\\orm.properties"
+    }
+]
